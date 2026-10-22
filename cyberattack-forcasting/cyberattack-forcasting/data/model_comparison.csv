@@ -1,0 +1,3 @@
+Model,MAE,RMSE,SMAPE (%)
+Naive Baseline,1314.53,1622.21,18.69
+Random Forest,1840.93,2151.26,28.18

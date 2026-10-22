@@ -1,0 +1,4 @@
+Model,Test_Observations,MAE,RMSE,SMAPE_Percent
+Attention_LSTM,20,1146.97,1389.14,15.79
+Naive_Baseline,20,1252.6,1581.23,17.81
+Random_Forest,20,2718.29,2962.86,45.36
